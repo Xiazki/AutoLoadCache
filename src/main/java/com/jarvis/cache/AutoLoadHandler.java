@@ -38,6 +38,7 @@ public class AutoLoadHandler {
 
     private final CacheHandler cacheHandler;
 
+
     /**
      * 缓存池
      */
